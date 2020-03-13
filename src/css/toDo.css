@@ -1,0 +1,17 @@
+.filter li{
+    display: flex;
+}
+
+.toggleState{
+    padding : 0;
+    height : 15%;
+}
+
+.itemValue{
+    margin: 0;
+    padding-right: 2%;
+}
+
+.toDoList{
+    display: flex;
+}
